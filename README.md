@@ -28,7 +28,7 @@
 ## 💻 Projects Highlights
 
 <p align="center">
-  <a href="https://divyaalla22.github.io/Portfolio-Website/" target="_blank">
+  <a href="https://divyaalla22.github.io/Personal-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-✨blue?style=for-the-badge" alt="Portfolio">
   </a>
   <a href="https://github.com/DivyaAlla22/Yulu-Bike-Sharing-Demand-Prediction" target="_blank">
