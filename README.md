@@ -17,8 +17,9 @@
 ---
 
 ## 👩‍💻 About Me  
-I am a front-end developer focused on creating clean, responsive, and user-friendly web interfaces.  
-I enjoy transforming ideas into visually appealing digital experiences using modern web technologies.
+I am a front-end developer specializing in building clean, responsive, and user-focused web interfaces.
+I am actively preparing for opportunities where I can contribute to real-world projects, collaborate with teams, and continue improving my skills in modern web technologies like React, JavaScript, and responsive design.
+My goal is to grow as a developer and create digital experiences that are simple, elegant, and efficient.
 
 ---
 
@@ -39,7 +40,7 @@ Next.js • Advanced JavaScript Patterns
 ### **1. Bloomly – Flower Boutique Website**  
 A modern, responsive landing page for a boutique flower shop.  
 **Tech:** HTML, CSS, Flexbox, Grid  
-🔗 Live: *Your GitHub Pages link (if available)*  
+🔗 Live:  https://divyaalla22.github.io/Bloomly-Website/
 🔗 Code: https://github.com/DivyaAlla22/Bloomly-Website  
 
 ---
