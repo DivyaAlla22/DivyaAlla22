@@ -1,48 +1,72 @@
-<h1 align="center">👋 Hi, I’m Divya Alla</h1>
-<h3 align="center">Aspiring Front-End Developer | JavaScript Enthusiast | UI/UX Lover</h3>
+<h1 align="center">Divya Alla</h1>
+<h3 align="center">Front-End Developer | Passionate About Clean UI & Modern Web</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/divya-alla/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Divya%20Alla-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<div align="center">
+  <a href="https://www.linkedin.com/in/divya-alla" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Divya%20Alla-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/DivyaAlla22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@DivyaAlla22-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-DivyaAlla22-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=divyaallaa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧%20Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:divyaallaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</div>
 
 ---
 
-## 🛠️ Skills & Tech Stack
-
-| Frontend | Tools & Platforms | Others |
-|----------|-----------------|--------|
-| HTML5, CSS3, JavaScript (ES6) | Git, GitHub, VS Code | Figma, Canva |
-| React.js | Chrome DevTools | Responsive Design |
-| Next.js (Learning) | NPM, Node.js | Basic Python |
+## 👩‍💻 About Me  
+I am a front-end developer focused on creating clean, responsive, and user-friendly web interfaces.  
+I enjoy transforming ideas into visually appealing digital experiences using modern web technologies.
 
 ---
 
-## 💻 Projects Highlights
-
-<p align="center">
-  <a href="https://divyaalla22.github.io/Personal-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-✨blue?style=for-the-badge" alt="Portfolio">
-  </a>
-  <a href="https://github.com/DivyaAlla22/Bloomly-Website" target="_blank">
-    <img src="https://img.shields.io/badge/Bloomly%20Website-🌸pink?style=for-the-badge" alt="Bloomly Website">
-</a>
-  <a href="https://github.com/DivyaAlla22/Recipe-App" target="_blank">
-    <img src="https://divyaalla22.github.io/Recipe-App/%20App-🍲orange?style=for-the-badge" alt="Recipe App">
-  </a>
-</p>
+## 🔧 Tech Stack  
+**Frontend:**  
+HTML5 • CSS3 • JavaScript (ES6+) • React  
+**Tools:**  
+Git • GitHub • VS Code • Chrome DevTools  
+**Design:**  
+Figma • Canva  
+**Currently Learning:**  
+Next.js • Advanced JavaScript Patterns
 
 ---
 
-## 📫 Let’s Connect
+## 🚀 Selected Projects
 
-<p align="center">
-  I’m always excited to collaborate and learn! Feel free to reach out via email or connect on LinkedIn.
-</p>
+### **1. Bloomly – Flower Boutique Website**  
+A modern, responsive landing page for a boutique flower shop.  
+**Tech:** HTML, CSS, Flexbox, Grid  
+🔗 Live: *Your GitHub Pages link (if available)*  
+🔗 Code: https://github.com/DivyaAlla22/Bloomly-Website  
+
+---
+
+### **2. Personal Portfolio Website**  
+A clean and minimal portfolio showcasing projects and skills.  
+🔗 Live: https://divyaalla22.github.io/Personal-Portfolio/  
+
+---
+
+### **3. Recipe App**  
+Search and explore recipes with a neat and easy-to-use interface.  
+🔗 Live: https://divyaalla22.github.io/Recipe-App/  
+
+---
+
+## 📈 GitHub Insights  
+<div align="center">
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DivyaAlla22&show_icons=true&hide_border=true&theme=rose_pine" />
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaAlla22&hide_border=true&theme=rose_pine" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect  
+If you’d like to collaborate, discuss ideas, or connect professionally, feel free to reach out on LinkedIn or email.
+
+---
