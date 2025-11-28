@@ -31,11 +31,11 @@
   <a href="https://divyaalla22.github.io/Personal-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-✨blue?style=for-the-badge" alt="Portfolio">
   </a>
-  <a href="https://github.com/DivyaAlla22/Yulu-Bike-Sharing-Demand-Prediction" target="_blank">
-    <img src="https://img.shields.io/badge/Yulu%20Bike%20Prediction-🚲green?style=for-the-badge" alt="Yulu Bike Prediction">
-  </a>
+  <a href="https://github.com/DivyaAlla22/Bloomly-Website" target="_blank">
+    <img src="https://img.shields.io/badge/Bloomly%20Website-🌸pink?style=for-the-badge" alt="Bloomly Website">
+</a>
   <a href="https://github.com/DivyaAlla22/Recipe-App" target="_blank">
-    <img src="https://img.shields.io/badge/Recipe%20App-🍲orange?style=for-the-badge" alt="Recipe App">
+    <img src="https://divyaalla22.github.io/Recipe-App/%20App-🍲orange?style=for-the-badge" alt="Recipe App">
   </a>
 </p>
 
