@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer | Passionate About Clean UI & Modern Web</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/divya-alla" target="_blank">
+  <a href="https://www.linkedin.com/in/divya-alla-b69952387/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Divya%20Alla-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/DivyaAlla22" target="_blank">
