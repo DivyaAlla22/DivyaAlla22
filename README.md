@@ -8,9 +8,10 @@
   <a href="https://github.com/DivyaAlla22" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-DivyaAlla22-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:divyaallaa@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=divyaallaa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+</a>
+
 </div>
 
 ---
