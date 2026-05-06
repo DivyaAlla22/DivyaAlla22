@@ -6,7 +6,7 @@
 ---
 
 ### 👩‍💻 About Me
-I am a **recent MCA Graduate** (8.36 CGPA) and an **Aspiring Software Developer**[cite: 1]. I enjoy building web applications using **React.js**, **Node.js**, and **Java**[cite: 1]. My goal is to create efficient, secure, and user-friendly software solutions[cite: 1].
+I am a **recent MCA Graduate** (8.36 CGPA) and an **Aspiring Software Developer**. I specialize in building web applications using **React.js**, **Node.js**, and **Java**. My goal is to create efficient, secure, and user-friendly software solutions.
 
 - 🎓 **Education:** Master of Computer Applications (2025)[cite: 1].
 - 🏢 **Experience:** Internship experience in **Java Full Stack** and **Python** development[cite: 1].
@@ -21,10 +21,10 @@ I am a **recent MCA Graduate** (8.36 CGPA) and an **Aspiring Software Developer*
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat-square) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) |
-| **Backend** | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) ![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=flat-square) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square) |
+| **Frontend** | `React.js` `JavaScript` `HTML5` `CSS3`[cite: 1] |
+| **Backend** | `Node.js` `Spring Boot` `Java` `Python`[cite: 1] |
+| **Databases** | `MySQL` `PostgreSQL` `MongoDB`[cite: 1] |
+| **Tools** | `Git` `GitHub` `Postman` `Vercel`[cite: 1] |
 
 </div>
 
@@ -41,22 +41,6 @@ I am a **recent MCA Graduate** (8.36 CGPA) and an **Aspiring Software Developer*
 > End-to-end Hotel Booking Management platform[cite: 1].
 - **Tech:** Spring Boot, Hibernate, React.js, MySQL[cite: 1].
 - **Key Feature:** Integrated REST APIs and optimized database schema[cite: 1].
-
----
-
----
-
-### 📊 Profile Overview
-
-<p align="center">
-  <!-- Profile Summary Card (Works for fresh accounts) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyaAlla22&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" height="170" />
-</p>
-
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaAlla22&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</p>
 
 ---
 
