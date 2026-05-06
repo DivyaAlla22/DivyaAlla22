@@ -47,15 +47,12 @@ I am a **Software Developer** and recent **MCA Graduate** with a **8.36 CGPA**[c
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaAlla22&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercelapp.com/?username=DivyaAlla22&theme=tokyonight&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaAlla22&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
-
 ---
 
 ### 📫 Let's Connect!
