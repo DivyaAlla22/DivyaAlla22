@@ -44,13 +44,17 @@ I am a **recent MCA Graduate** (8.36 CGPA) and an **Aspiring Software Developer*
 
 ---
 
-### 📊 GitHub Analytics
+---
+
+### 📊 Profile Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaAlla22&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
+  <!-- Profile Summary Card (Works for fresh accounts) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyaAlla22&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" height="170" />
 </p>
 
 <p align="center">
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaAlla22&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
