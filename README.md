@@ -1,56 +1,62 @@
-# Hi there, I'm ALLA DIVYA 👋
-
-I am a **Software Developer** and recent **MCA Graduate**[cite: 1] with a passion for building cross-platform mobile and web applications. I specialize in **React Native, React.js, and Full Stack Development**[cite: 1]. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
-
-### 💫 About Me:
-- 🎓 Recently completed my **Master of Computer Applications** with an **8.36 CGPA**[cite: 1].
-- 🚀 Specialized in **Java Full Stack Development** through ExcelR and internship experience[cite: 1].
-- 📱 Currently focused on **React Native** and building production-grade mobile applications[cite: 1].
-- 🛠️ I have a strong background in implementing **JWT-based authentication** and **Role-Based Access Control**[cite: 1].
-- 🎨 Fun fact: In my free time, I enjoy painting and creating handmade crafts[cite: 1].
-
----
-
-### 🛠️ Tech Stack:
-
-**Frontend & Mobile**
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend & Database**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=D7D7D7)
-
----
-
-### 📂 Featured Projects:
-
-- **SkillBridgeDB — Attendance Management System**[cite: 1]
-  - Full-stack system with 5 distinct user roles and server-side RBAC[cite: 1].
-  - Tech: React.js, Node.js, PostgreSQL, JWT[cite: 1].
-- **Hotel Booking Management System (TripByte)**[cite: 1]
-  - End-to-end booking application with room management and REST APIs[cite: 1].
-  - Tech: Spring Boot, Hibernate, React.js, MySQL[cite: 1].
-
----
-
-### 📈 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=DivyaAlla22&show_icons=true&theme=radical" alt="Divya's GitHub Stats" />
+# <p align="center">✨ Hello, I'm Alla Divya! ✨</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=React+Native+Developer;Full+Stack+Engineer;MCA+Graduate;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📧 Connect with me:
-- 💼 [LinkedIn](https://linkedin.com/in/divyaalla-dev)[cite: 1]
-- 📧 Email: alladivya32@gmail.com[cite: 1]
-- 📍 Tuni, Andhra Pradesh, India[cite: 1]
+### 👩‍💻 About Me
+I am a **Software Developer** and recent **MCA Graduate** (8.36 CGPA)[cite: 1]. I specialize in building high-performance **React Native** mobile apps and **Full Stack** web applications[cite: 1]. I love creating tools that are functional, secure, and user-friendly[cite: 1].
+
+- 🎓 **Education:** Master of Computer Applications (2025)[cite: 1].
+- 🏢 **Experience:** Internships at **AI Variant** and **Octanet Services**[cite: 1].
+- 💡 **Interests:** Prompt Engineering, Java Full Stack, and UI/UX[cite: 1].
+- 🎨 **Creative Side:** When I'm not coding, I'm painting or making handmade crafts[cite: 1].
+
+---
+
+### 🛠️ My Tech Stack
+
+<div align="center">
+
+| Area | Technologies |
+| :--- | :--- |
+| **Mobile & Frontend** | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) |
+| **Backend** | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) ![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=flat-square) ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=flat-square) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square) |
+
+</div>
+
+---
+
+### 🚀 Top Projects
+
+#### 🛠️ [SkillBridgeDB](https://github.com/DivyaAlla22/SkillBridgeDB) 
+> Full-stack Attendance Management System with **5 user roles**[cite: 1].
+- **Tech:** React.js, Node.js, PostgreSQL[cite: 1].
+- **Highlight:** Implemented secure **JWT authentication** and role-based access[cite: 1].
+
+#### 🏨 [TripByte (Hotel Management)](https://github.com/DivyaAlla22/Hotel_Booking_Management)
+> End-to-end booking application with integrated REST APIs[cite: 1].
+- **Tech:** Spring Boot, Hibernate, React.js, MySQL[cite: 1].
+- **Highlight:** Optimized database schemas for high-performance data retrieval[cite: 1].
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyaAlla22&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaAlla22&theme=dark&hide_border=true&background=0D1117" alt="Streak Stats" />
+</p>
+
+---
+
+### 📫 Let's Chat!
+- 💼 **LinkedIn:** [In/DivyaAlla-Dev](https://linkedin.com/in/divyaalla-dev)[cite: 1]
+- 📧 **Email:** [alladivya32@gmail.com](mailto:alladivya32@gmail.com)[cite: 1]
+- 📍 **Location:** Tuni, Andhra Pradesh, India[cite: 1]
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+</p>
