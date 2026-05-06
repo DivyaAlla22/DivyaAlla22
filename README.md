@@ -1,68 +1,56 @@
-<h1 align="center">Hi 👋, I'm Alla Divya</h1>
-<h3 align="center">MCA Graduate | Full Stack Developer | React.js · Node.js · Java Spring Boot</h3>
+# Hi there, I'm ALLA DIVYA 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/divyaalla-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:alladivya32@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/DivyaAlla22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+I am a **Software Developer** and recent **MCA Graduate**[cite: 1] with a passion for building cross-platform mobile and web applications. I specialize in **React Native, React.js, and Full Stack Development**[cite: 1]. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+
+### 💫 About Me:
+- 🎓 Recently completed my **Master of Computer Applications** with an **8.36 CGPA**[cite: 1].
+- 🚀 Specialized in **Java Full Stack Development** through ExcelR and internship experience[cite: 1].
+- 📱 Currently focused on **React Native** and building production-grade mobile applications[cite: 1].
+- 🛠️ I have a strong background in implementing **JWT-based authentication** and **Role-Based Access Control**[cite: 1].
+- 🎨 Fun fact: In my free time, I enjoy painting and creating handmade crafts[cite: 1].
+
+---
+
+### 🛠️ Tech Stack:
+
+**Frontend & Mobile**
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Backend & Database**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=D7D7D7)
+
+---
+
+### 📂 Featured Projects:
+
+- **SkillBridgeDB — Attendance Management System**[cite: 1]
+  - Full-stack system with 5 distinct user roles and server-side RBAC[cite: 1].
+  - Tech: React.js, Node.js, PostgreSQL, JWT[cite: 1].
+- **Hotel Booking Management System (TripByte)**[cite: 1]
+  - End-to-end booking application with room management and REST APIs[cite: 1].
+  - Tech: Spring Boot, Hibernate, React.js, MySQL[cite: 1].
+
+---
+
+### 📈 GitHub Stats:
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=DivyaAlla22&show_icons=true&theme=radical" alt="Divya's GitHub Stats" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
-
-- 🎓 MCA Graduate from **Aditya College of Engineering & Technology**, Surampalem (CGPA: 8.36)
-- 💼 Ex-Intern at **AI Variant** (Java Full Stack) and **Octanet Services** (Python)
-- 🚀 Built full-stack projects with **React.js, Node.js, Spring Boot, PostgreSQL, MySQL**
-- 🌱 Currently exploring **React Native** and **MERN Stack**
-- 📍 Based in Andhra Pradesh | Open to relocation (Hyderabad / Bangalore)
-- 📫 Reach me at **alladivya32@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📂 Featured Projects
-
-| Project | Tech Stack | Live |
-|---|---|---|
-| 🏨 [Hotel Booking Management System](https://github.com/DivyaAlla22/Hotel_Booking_Management) | Spring Boot · React.js · MySQL · JWT | — |
-| 📋 [SkillBridgeDB — Attendance System](https://github.com/DivyaAlla22/SkillBridgeDB) | React.js · Node.js · PostgreSQL · JWT | [Live ↗](https://skill-bridge-db.vercel.app) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyaAlla22&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaAlla22&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DivyaAlla22&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+### 📧 Connect with me:
+- 💼 [LinkedIn](https://linkedin.com/in/divyaalla-dev)[cite: 1]
+- 📧 Email: alladivya32@gmail.com[cite: 1]
+- 📍 Tuni, Andhra Pradesh, India[cite: 1]
